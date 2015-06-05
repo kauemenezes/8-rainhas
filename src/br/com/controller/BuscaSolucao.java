@@ -13,7 +13,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Classe responsável por solucionar o problema das 8 rainhas, através
+ * Classe responsável por solucionar o problema das 8 rainhas através
  * dos algoritmos subida de encosta e têmpera simulada.
  * @author Kauê
  */
